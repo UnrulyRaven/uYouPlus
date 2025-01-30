@@ -1,3 +1,5 @@
+#Eric, read the wiki on this page if you forgot something! Also update it if you forgot something else and then had to relearn it!
+
 # uYouPlus
 
 ![Image 2](https://github.com/qnblackcat/uYouPlus/assets/77606385/c1a1c58a-5d4d-48a6-bb98-d00086719ccc)
