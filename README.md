@@ -1,4 +1,4 @@
-#Eric, read the wiki on this page if you forgot something! Also update it if you forgot something else and then had to relearn it!
+# Eric, read the wiki on this page if you forgot something! Also update it if you forgot something else and then had to relearn it!
 
 # uYouPlus
 
